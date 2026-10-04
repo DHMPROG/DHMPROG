@@ -1,5 +1,10 @@
-<h1 align="center">Hey, I'm DHMPROG</h1>
-<p align="center"><em>Software engineering student by day · building whatever I find cool by night</em></p>
+<h1 align="center">Hey, I'm Amine Dahmane</h1>
+
+<p align="center">
+  <a href="https://github.com/DHMPROG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Building+whatever+I+find+cool;Java+%7C+Flutter+%7C+Svelte+%7C+PHP;Games%2C+mobile+apps+and+Minecraft+mods" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DHMPROG&style=flat-square&color=blue" alt="Profile views" />
@@ -40,6 +45,20 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=DHMPROG&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHMPROG&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DHMPROG&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+### Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHMPROG/DHMPROG/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DHMPROG/DHMPROG/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/DHMPROG/DHMPROG/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
