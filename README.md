@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DHMPROG&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DHMPROG.DHMPROG&left_text=Profile%20views" alt="Profile views" />
   <a href="https://github.com/DHMPROG?tab=followers"><img src="https://img.shields.io/github/followers/DHMPROG?style=flat-square&label=Followers" alt="Followers" /></a>
 </p>
 
